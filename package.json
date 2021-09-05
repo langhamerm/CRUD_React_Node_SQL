@@ -2,6 +2,7 @@
   "name": "crud-ninjas",
   "version": "0.1.0",
   "private": true,
+  "engine": "npm",
   "dependencies": {
     "axios": "^0.21.1",
     "cors": "^2.8.5",
